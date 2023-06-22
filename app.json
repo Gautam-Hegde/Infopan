@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "InfoPan",
+    "slug": "newsxtimes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/nsx-logo.png",
+    "splash": {
+      "image": "./assets/splash-main.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#DA3349"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "tarundeveloper.newsxtimes"
+    },
+    "android": {
+      "package": "tarundeveloper.newsxtimes",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/nsx-logo.png",
+        "backgroundColor": "#DA3349"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d6c147a6-c5e5-437e-a4dc-d6f51c4a6578"
+      }
+    }
+  }
+}
