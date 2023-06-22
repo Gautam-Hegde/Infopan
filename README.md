@@ -26,7 +26,7 @@
 
 
 <ul>
-<li><strong>Languages and Frameworks</strong>: JavaScript, React Native, React, Node.js</li>
+<li><strong>Languages and Frameworks</strong>: JavaScript, React Native</li>
 <li><strong>IDE</strong>: VS Code</li>
   <li><strong>API used</strong>: <a href="https://newsapi.org/">NewsAPI.org</a></li>
 <li><strong>Version Control</strong>: Git and GitHub</li>
